@@ -1,6 +1,6 @@
 # Fitmoh-Messenger-Chatbot
 
-#Features
+# Features
 --------
 Send Fitmoh a picture of your food! It will analyze it and send back the estimated nutrition information about it.
 
