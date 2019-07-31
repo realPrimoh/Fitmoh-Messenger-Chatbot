@@ -1,0 +1,31 @@
+{
+  "name": "Fitmoh Chatbot",
+  "version": "1.0.0",
+  "description": "Nutrition info chatbot, based on photo or text",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/realPrimoh/fitmoh-messenger-chatbot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "nutritionix",
+    "google",
+    "vision",
+    "api",
+    "node.js"
+  ],
+  "author": "priyam.mohanty[at]gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/vision": "^0.20.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "node-fetch": "^2.1.2",
+    "request": "^2.87.0"
+  }
+}
