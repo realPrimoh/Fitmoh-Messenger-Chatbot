@@ -1,6 +1,6 @@
 # Fitmoh-Messenger-Chatbot
 
-Fitmoh currently uses the Nutritionix API and Google Cloud Vision API to parse requests and send back appropriate responses. To be quite honest... I'm not a big fan of the Nutritionix API, so I slowly custom building my own solution: https://github.com/realPrimoh/grab-myfitnesspal
+Fitmoh currently uses the Nutritionix API and Google Cloud Vision API to parse requests and send back appropriate responses. To be quite honest... I'm not a big fan of the Nutritionix API, so I am slowly custom building my own solution: https://github.com/realPrimoh/grab-myfitnesspal
 
 I have about 40k foods scraped... and while I will keep grabbing foods, I eventually want to run some sort of NLP classification so that the chatbot is way "smarter." Stay tuned!
 
